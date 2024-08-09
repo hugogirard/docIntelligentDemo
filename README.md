@@ -95,3 +95,7 @@ Once in **Document Intelligence Studio** you need to create a custom model. To d
 #### Click on the **Train** button, be sure to enter **ModelV1** for the name and click train
 
 ![Alt text](img/img7.png)
+
+## Continue the notebook
+
+Now, you can run the step 4 and 5 in the notebook to test the model you just created.
